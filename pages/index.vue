@@ -1,6 +1,6 @@
 <template>
   <main class="flex flex-col justify-center">
    
-    <HomeHero />sad
+    <HomeHero />
   </main>
 </template>
