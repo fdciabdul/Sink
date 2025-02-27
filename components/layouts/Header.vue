@@ -23,7 +23,7 @@ const { title, github } = useAppConfig()
               class="flex items-center justify-center w-8 h-8 rounded-full"
             >
               <img
-                src="/sink.png"
+                src="https://subagakreatif.com/wp-content/uploads/2024/07/logo-1-1.png"
                 :alt="title"
                 class="w-full h-full rounded-full"
               >
@@ -49,7 +49,7 @@ const { title, github } = useAppConfig()
                 class="flex items-center justify-center w-8 h-8 text-white bg-gray-900 rounded-full"
               >
                 <img
-                  src="/sink.png"
+                  src="https://subagakreatif.com/wp-content/uploads/2024/07/logo-1-1.png"
                   :alt="title"
                   class="w-full h-full rounded-full"
                 >
